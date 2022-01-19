@@ -1,9 +1,9 @@
 # ProjectMerge
 
 Mekaniklerini birleştirdiğim oyunlar:
-. Resizing - Jelly Shift
-. Color-matching - Color Switch
-. Stacking - Stack
+- Resizing - Jelly Shift
+- Color-matching - Color Switch
+- Stacking - Stack
 
 Oynanış:
 Oyunun amacı karakterimizi büyütüp küçülterek ve sağa sola kaydırarak engellerin içinden ya da yanından geçmek.
