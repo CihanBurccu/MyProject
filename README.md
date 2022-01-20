@@ -12,3 +12,5 @@ Karakterimiz ile aynı şekildeki objeleri topladığımızda karakterimiz büy�
 
 Not: Oyunu oynarken Device Simulator kullanınız.
      Loader sahnesinden başlatınız.
+
+Oynanış videosu: https://youtu.be/dfYPPkouz44
